@@ -1,0 +1,1 @@
+SELECT * FROM bt2.nhacungcap;
